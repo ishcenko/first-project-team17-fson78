@@ -12,7 +12,7 @@
   "devDependencies": {
     "vite": "^4.0.0"
   },
-  "author": "Andrii Ishchenko <a_ishcenko@i.ua",
+  "author": "Andriy Ishchenko <a_ishcenko@i.ua",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
